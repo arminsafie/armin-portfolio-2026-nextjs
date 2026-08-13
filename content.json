@@ -1,0 +1,176 @@
+{
+  "hero": {
+    "eyebrow": "Frontend Developer \u2014 Self-employed, Est. 2021",
+    "name": "Armin Safaie",
+    "tagline": "From first wireframe to deployed, production-ready site.",
+    "bio": "Builds with React, Next.js and TypeScript, styles with Tailwind CSS and Bootstrap 5, and connects to Laravel/PHP APIs when a project needs one. Writes tests with Jest and React Testing Library, and treats responsive design, performance and accessibility as requirements \u2014 not afterthoughts.",
+    "base": "Yerevan, Armenia",
+    "since": "2021"
+  },
+  "contact": {
+    "email": "arminsafaie92@gmail.com",
+    "phone": "+374 95 199 439",
+    "location": "Yerevan, Armenia",
+    "github": "https://github.com/arminsafie",
+    "linkedin": "https://linkedin.com/in/armin-safaie",
+    "blurb": "Have a project that needs a frontend built end-to-end \u2014 wireframe to deployed site? Reach out directly."
+  },
+  "experience": {
+    "role": "Freelance Frontend Developer",
+    "type": "Self-employed \u00b7 Remote",
+    "duration": "2021 \u2192 present",
+    "durationLabel": "Duration: 2021 \u2014 Present",
+    "highlights": [
+      "Delivered WordPress websites for clients across industries \u2014 a corporate site for an international energy, agriculture and engineering consultancy, a bilingual e-commerce store, and a personal-training portfolio site.",
+      "Developed React.js applications, including a cafe digital menu backed by a Laravel API and a recipe site for browsing and discovering recipes.",
+      "Owned each project independently end-to-end \u2014 gathering requirements, structuring content, and testing every build across browsers and screen sizes before handoff."
+    ]
+  },
+  "projects": [
+    {
+      "name": "Wonka Menu",
+      "kind": "Cafe Digital Menu",
+      "stack": [
+        "React.js",
+        "Laravel API"
+      ],
+      "url": "wonkamenu.ir",
+      "summary": "Designed and built a cafe's digital menu in under 2 weeks \u2014 a React.js frontend backed by a Laravel API \u2014 structuring menu items and categories into a fast, easy-to-browse interface across mobile and desktop.",
+      "result": ""
+    },
+    {
+      "name": "Shekamo Food",
+      "kind": "Recipe Website",
+      "stack": [
+        "React.js"
+      ],
+      "url": "shekamofood.ir",
+      "summary": "Developed a React.js recipe website with a clean, browsable interface for discovering recipes by category.",
+      "result": "Gained organic traffic through social media and word-of-mouth sharing after launch."
+    },
+    {
+      "name": "Petropedaco",
+      "kind": "Corporate Website",
+      "stack": [
+        "WordPress"
+      ],
+      "url": "petropedaco.com",
+      "summary": "Delivered a WordPress corporate website for Petropedaco, an international consulting and engineering firm, in about 3\u20134 weeks, translating its multi-sector, international scope into a professional, content-managed site.",
+      "result": "Client reported the new site felt noticeably faster, with fewer support complaints after launch."
+    },
+    {
+      "name": "Parriot",
+      "kind": "Multilingual Online Shopping Website",
+      "stack": [
+        "WordPress"
+      ],
+      "url": "parriot.ir",
+      "summary": "Launched a bilingual (Persian/English) e-commerce website, handling product catalog structure, language switching and localized content.",
+      "result": "Client began generating real sales and orders through the site after launch."
+    },
+    {
+      "name": "shayankalateh.com",
+      "kind": "Personal Trainer Portfolio",
+      "stack": [
+        "WordPress"
+      ],
+      "url": "shayankalateh.com",
+      "summary": "Designed a WordPress portfolio site for a personal gym trainer with a fast, mobile-friendly build the client could manage and update independently.",
+      "result": "Client reported receiving new client inquiries directly through the site after launch."
+    }
+  ],
+  "skills": {
+    "groups": [
+      {
+        "label": "Core",
+        "items": [
+          "HTML5",
+          "CSS3",
+          "JavaScript (ES6+)",
+          "TypeScript"
+        ]
+      },
+      {
+        "label": "Frameworks",
+        "items": [
+          "React.js",
+          "Next.js"
+        ]
+      },
+      {
+        "label": "Styling",
+        "items": [
+          "Tailwind CSS",
+          "Bootstrap 5"
+        ]
+      },
+      {
+        "label": "Backend & APIs",
+        "items": [
+          "Laravel",
+          "PHP",
+          "REST APIs"
+        ]
+      },
+      {
+        "label": "Testing",
+        "items": [
+          "Jest",
+          "React Testing Library"
+        ]
+      },
+      {
+        "label": "CMS",
+        "items": [
+          "WordPress"
+        ]
+      },
+      {
+        "label": "Tools",
+        "items": [
+          "Git",
+          "VS Code",
+          "Chrome DevTools"
+        ]
+      }
+    ],
+    "strengths": [
+      "Responsive design",
+      "Performance optimization",
+      "Cross-browser testing",
+      "Accessibility (a11y)",
+      "Clean, maintainable code"
+    ]
+  },
+  "education": [
+    {
+      "program": "Frontend Developer Program",
+      "institution": "Tehran Institute of Technology"
+    },
+    {
+      "program": "CS50: Intro to Computer Science",
+      "institution": "Harvard University (edX)"
+    },
+    {
+      "program": "Enhancing Apps with Embeddable AI",
+      "institution": "IBM"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Persian",
+      "level": "Native",
+      "scale": 3
+    },
+    {
+      "name": "English",
+      "level": "Professional",
+      "scale": 2
+    },
+    {
+      "name": "German",
+      "level": "Conversational",
+      "scale": 1
+    }
+  ]
+}
